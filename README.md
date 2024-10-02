@@ -14,4 +14,4 @@
 ⚡ Fun fact: I'm a district-level chess player and love solving coding challenges!
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gururv-cyber-webdev&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gururv-cyber-webdev&show_icons=true&theme=merco)
