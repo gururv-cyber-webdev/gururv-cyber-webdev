@@ -1,4 +1,4 @@
-<br/><br/><br/>   ###👋 Hi, I’m Gurumoorthy K @guru-cyber-webdev.                                                                                                                                                                                      
+#👋 Hi, I’m Gurumoorthy K @guru-cyber-webdev.                                                                                                                                                                                      
 
 👀 I’m interested in Cybersecurity, Blockchain, and Web Development.                                                                                                                                                    
 
