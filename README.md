@@ -36,27 +36,28 @@
 [<img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />](https://facebook.com/https://www.facebook.com/profile.php?id=61561141270840&mibextid=ZbWKwL)
 
 
-
+<br/>
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gururv-cyber-webdev&layout=compact)  
 
 
-
+<br/>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gururv-cyber-webdev&show_icons=true&theme=merco)](https://github.com/gururv-cyber-webdev)
 
 
+<br/>
 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gururv-cyber-webdev&theme=merco)](https://git.io/streak-stats)
 
-
+<br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gururv-cyber-webdev)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+<br/>
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gururv-cyber-webdev&theme=dracula)](https://github.com/gururv-cyber-webdev)
 
 
