@@ -14,12 +14,16 @@
 ⚡ Fun fact: I'm a district-level chess player and love solving coding challenges!
 
 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gururv-cyber-webdev&layout=compact)     ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gururv-cyber-webdev&show_icons=true&theme=merco)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=gururv-cyber-webdev)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gururv-cyber-webdev&show_icons=true&theme=merco)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gururv-cyber-webdev&layout=compact)
+## Connect with me:
+[<img align="left" alt="LinkedIn" width="22px" src="" />](https://linkedin.com/in/your-link)
+[<img align="left" alt="YouTube" width="22px" src="" />](https://youtube.com/your-link)
+[<img align="left" alt="Instagram" width="22px" src="" />](https://instagram.com/your-link)
+[<img align="left" alt="Facebook" width="22px" src="" />](https://facebook.com/your-link)
 
