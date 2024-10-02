@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Gurumoorthy K @guru-cyber-webdev.                                                                                                                                                                                      
 
-👀 I’m interested in Cybersecurity, Blockchain, and Web Development.                                                                                                                                                    
+👀 I’m interested in Cybersecurity, Blockchain, and Web Development.                           s                                                                                                                         
 
 🌱 I’m currently learning Ethical Hacking, Advanced Web Development, and Cloud Technologies.                                                                                                                            
 
