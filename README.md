@@ -14,6 +14,10 @@
 ⚡ Fun fact: I'm a district-level chess player and love solving coding challenges!
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=guru-rv-cyber)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gururv-cyber-webdev&show_icons=true&theme=merco)
 
 
