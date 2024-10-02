@@ -28,7 +28,8 @@
 
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gururv-cyber-webdev&show_icons=true&theme=merco)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gururv-cyber-webdev&show_icons=true&theme=merco)](https://github.com/gururv-cyber-webdev)
+
 
 
 
