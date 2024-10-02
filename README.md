@@ -41,6 +41,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=gururv-cyber-webdev)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gururv-cyber-webdev&theme=dracula)](https://github.com/gururv-cyber-webdev)
+
+
+
 
 
 
