@@ -26,7 +26,7 @@
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />](https://www.linux.org)
 
 
-
+<br/>
 
 
 ## Connect with me:
