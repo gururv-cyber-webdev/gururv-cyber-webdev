@@ -15,6 +15,11 @@
 
 
 
+
+
+
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gururv-cyber-webdev&layout=compact)     ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gururv-cyber-webdev&show_icons=true&theme=merco)
 
 
@@ -22,8 +27,9 @@
 
 
 ## Connect with me:
-[<img align="left" alt="LinkedIn" width="22px" src="" />](https://linkedin.com/in/your-link)
-[<img align="left" alt="YouTube" width="22px" src="" />](https://youtube.com/your-link)
-[<img align="left" alt="Instagram" width="22px" src="" />](https://instagram.com/your-link)
-[<img align="left" alt="Facebook" width="22px" src="" />](https://facebook.com/your-link)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/)
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/your-link)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/your-link)
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/your-link)
+
 
