@@ -30,4 +30,4 @@
 [<img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />](https://facebook.com/https://www.facebook.com/profile.php?id=61561141270840&mibextid=ZbWKwL)
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gururv-cyber-webdev&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gururv-cyber-webdev&theme=dracula)](https://git.io/streak-stats)
