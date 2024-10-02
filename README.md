@@ -42,6 +42,4 @@
 
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gururv-cyber-webdev&show_icons=true&theme=dracula)](https://github.com/gururv-cyber-webdev)
-
 
