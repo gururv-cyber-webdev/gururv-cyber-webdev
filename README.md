@@ -37,31 +37,22 @@
 
 
 <br/>
-<hr/>
 
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gururv-cyber-webdev&layout=compact)  
+### 📊 GitHub Stats
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gururv-cyber-webdev&layout=compact)
 
-<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gururv-cyber-webdev&show_icons=true&theme=merco)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gururv-cyber-webdev&show_icons=true&theme=merco)](https://github.com/gururv-cyber-webdev)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gururv-cyber-webdev&theme=merco)
 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=gururv-cyber-webdev)
 
-<br/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gururv-cyber-webdev&theme=dracula)
 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gururv-cyber-webdev&theme=merco)](https://git.io/streak-stats)
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gururv-cyber-webdev)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gururv-cyber-webdev&theme=dracula)](https://github.com/gururv-cyber-webdev)
-
+---
 
 
 
